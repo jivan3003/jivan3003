@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jivan</h1>
+<h1 align="center">Hi 👋, I'm Jivan Kharat</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
 - 🔭 I’m currently working on **Bank Management System**

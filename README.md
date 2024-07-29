@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jivan Kharat</h1>
 <h3 align="center">A passionate Java developer from India</h3>
 
-- 🔭 I’m currently working on **Bank Management System**
+- 🔭 I’m currently working on **Product CRUD App**
 
-- 🌱 I’m currently learning **JDBC**
+- 🌱 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about **JAVA**
 
